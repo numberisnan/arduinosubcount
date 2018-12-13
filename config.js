@@ -1,3 +1,4 @@
 exports.settings = {
-    requestInterval: 30000
+    requestInterval: 5000,
+    dialRange: [76524000, 76526000]
 }
