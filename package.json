@@ -1,0 +1,16 @@
+{
+  "name": "pewdiepiesubcount",
+  "version": "1.0.0",
+  "description": "A sub count for tracked by arduino servo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js UC-lHJZR3Gqxm24_Vd_AJ5Yw"
+  },
+  "author": "Faraz Malik",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^1.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
