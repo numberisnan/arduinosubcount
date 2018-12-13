@@ -1,3 +1,3 @@
 exports.settings = {
-    requestInterval = 30000
+    requestInterval: 30000
 }
